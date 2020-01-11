@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name:'user-profile'
+  name: 'user-profile',
   methods: {
     save () {
       this.$toast.success('保存成功')
