@@ -38,13 +38,13 @@ const routes = [
     path: '/user/chat',
     component: Chat
   }, {
-    path: 'login',
+    path: '/login',
     component: Login
   }, {
-    path: 'article',
+    path: '/article',
     component: Article
   }, {
-    path: 'search',
+    path: '/search',
     component: Search
   }, {
     path: '/search/result',
